@@ -1,5 +1,4 @@
-./logs
-./log
-./output
+log/
+output
 *.sh
 .vscode/
